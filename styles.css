@@ -54,6 +54,7 @@ body {
     margin-bottom: 17px;
 }
 
+/* Dynamic class */
 .show {
     opacity: 1;
     pointer-events: auto;
